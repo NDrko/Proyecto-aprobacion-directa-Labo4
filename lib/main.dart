@@ -6,7 +6,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'screens/home_screen.dart';
 import 'screens/new_releases_screen.dart';
 import 'screens/search_screen.dart';
-import 'screens/settings_screen.dart'; // Pantalla de configuración
+import 'screens/settings_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
