@@ -25,8 +25,6 @@ Dart: Lenguaje de programación utilizado en Flutter.
 
 Provider: Manejo del estado global.
 
-Carousel Slider: Implementación de carruseles para mostrar playlists.
-
 http: Para realizar peticiones HTTP a la API de Spotify.
 
 flutter_dotenv: Para manejar variables de entorno como claves de API.
