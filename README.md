@@ -7,7 +7,7 @@ Ver nuevos lanzamientos de álbumes.
 
 Buscar artistas y ver sus canciones.
 
-Explorar y reproducir playlists almacenadas en el backend.
+Explorar playlists almacenadas en el backend.
 
 Consultar los tracks de una playlist específica.
 
